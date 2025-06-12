@@ -9,14 +9,14 @@ const BestsellersSection = () => {
       name: "Shrimp Bowl",
       price: "₹349",
       rating: "4.9",
-      image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400",
+      image: "https://images.unsplash.com/photo-1633504581786-316c8002b1b4?w=400",
       tag: "Most Popular"
     },
     {
       name: "Butter Chicken Kit",
       price: "₹299",
       rating: "4.8",
-      image: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=400",
+      image: "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400",
       tag: "Chef's Special"
     },
     {
@@ -30,7 +30,7 @@ const BestsellersSection = () => {
       name: "Fish Curry",
       price: "₹279",
       rating: "4.8",
-      image: "https://images.unsplash.com/photo-1544943045-6f3c4d4f2bb0?w=400",
+      image: "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?w=400",
       tag: "Coastal Special"
     }
   ];

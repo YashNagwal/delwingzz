@@ -11,7 +11,7 @@ const MenuHighlights = () => {
         name: "Butter Chicken Kit",
         description: "Rich, creamy butter chicken with authentic spices",
         price: "₹299",
-        image: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=400",
+        image: "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400",
         rating: "4.8"
       },
       {
@@ -27,7 +27,7 @@ const MenuHighlights = () => {
         name: "Prawn Curry Bowl",
         description: "Fresh prawns in coconut curry sauce",
         price: "₹399",
-        image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400",
+        image: "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?w=400",
         rating: "4.9"
       },
       {

@@ -28,8 +28,7 @@ const HeroSection = () => {
             </Button>
             <Button 
               size="lg" 
-              variant="outline" 
-              className="border-delwingz-off-white text-delwingz-off-white hover:bg-delwingz-off-white hover:text-delwingz-red text-lg px-8 py-6 rounded-full font-semibold"
+              className="bg-delwingz-black hover:bg-delwingz-black/90 text-delwingz-off-white text-lg px-8 py-6 rounded-full font-semibold border-2 border-delwingz-black"
             >
               Explore Menu
             </Button>
